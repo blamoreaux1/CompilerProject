@@ -8,6 +8,9 @@ package bbs.compilerproject.parser;
  *
  * @author Ben
  */
-public class main {
+abstract class Declaration {
+    
+  
+    abstract void print();
     
 }
